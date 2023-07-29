@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+}
+.item-center{
+align-items: center;
+}
+
+.justify-center{
+justify-content: center;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+.semibold{
+    font-weight: bolder;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.background{
+    background-color: rgb(226, 239, 251);
+}
+.hover:hover{
+    box-shadow:  rgb(145, 142, 142) 0px 10px 10px;
+}

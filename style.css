@@ -1,0 +1,330 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+html,body{
+    height: 1300%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px    ;
+    border: 2px solid black;
+    scroll-behavior: smooth;
+}
+header{
+    box-shadow: rgba(0,0,0,0.15)1.95px 1.95px 2.6px;
+    position: sticky;
+    top: 0px;
+
+    background-color: #fff;
+    height: 77px;
+    
+}
+.left img {
+    width: 40px;
+    height: 30px;
+}
+.container{
+    /* margin: 13px 0px; */
+    padding: 0 8vw;    
+    
+    /* background-color: red; */
+    /* margin: auto; */
+}
+nav{
+    padding-top: 14px;
+    font-size: 14px;
+    font-weight: bolder;
+    
+
+}
+nav ul li {
+    list-style: none;
+    padding: 0px 12px;
+    
+}
+
+.section1{
+    /* height: 122vh; */
+    background-color:rgb(241, 241, 241);
+}
+
+.search{
+    width: 34vw;
+    padding: 7px 17px;
+    background:rgb(225, 222, 222);
+    border-radius: 5px;
+    border: .5px solid rgb(226, 222, 222);
+    
+}
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.homeimg{
+    width: 80vw;
+
+    margin: 12px 0;
+    padding: 0px;
+    
+}
+.homeimg2{
+    width: 98vw;
+
+    margin: 12px 13px 0px 13px;
+  /* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+  
+    
+}
+.deal{
+    margin: 28px;
+    font-size: 30px;
+    padding: 38px;
+    font-weight: 750;
+    font-family: sans-serif;
+    color: rgb(68, 68, 68);
+}
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+section{
+    flex-wrap: wrap;
+}
+.homeimg3{
+    width: 12vw;
+    height: 44vh;
+    /* border: 2px solid red; */
+    /* border-radius: 15px; */
+    margin: 1px;
+} 
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.homeimg4{
+    width: 12vw;
+    height: 44vh;
+    border: 5px solid white;
+    border-radius: 15px;
+    padding: 8px;
+    margin: auto;
+}
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+
+.toppicks{
+    width: 12vw;
+    height: 44vh;
+    background:linear-gradient(180deg ,cyan, rgb(255, 95, 67));
+    border: 2px solid red;
+    /* border-radius: 15px; */
+    padding: 3px;
+    margin: 10px;
+}
+.homeimg5{
+    width: 11vw;
+    height: 38vh;
+    /* border: 2px solid red; */
+    border-radius: 15px;
+    padding: 5px;
+    margin: auto;
+} 
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.bagcategories{
+    width: 12vw;
+    height: 27vh;
+    background:linear-gradient(90deg ,rgb(174, 0, 255), rgb(254, 1, 174),cyan);
+    /* border: 2px solid red; */
+    border-radius: 100px;
+    padding: 3px;
+    margin: 10px;
+
+}
+.homeimg6{
+    width: 12vw ;
+    height: 27vh;
+    border: .1px solid rgba(0, 0, 255, 0);
+    /* background:linear-gradient(180deg,red,rgb(240, 100, 124) );p */
+    border-radius: 100px;
+    /* border: 2px solid red; */
+    /* border-radius: 15px; */
+    /* padding: 5px; */
+    /* margin: auto; */
+}
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+    .homeimg7{
+    
+    margin-left: 5px;
+    width: 11vw;
+    height:25vh;
+    /* border: 2px solid red; */
+    /* border-radius: 15px; */
+    padding: 5px;
+    margin-bottom: -16px;
+    /* margin-left: 5.5px; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* margin: auto; */
+}  
+.brandlogo img{
+    width: 8vw;
+    height: 6vh;
+    padding: 5px;
+    margin-top: 0px;
+    margin-left: 30px;
+   
+}
+.discount{
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 25px;
+    margin-top: 0px;
+}
+
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+.bg{
+    background: url(https://img.freepik.com/free-vector/gradient-mandala-background_79603-1771.jpg?w=996&t=st=1690612397~exp=1690612997~hmac=d13977fdcb59430d200742f683ef7b175a9a429267894dcf28f04f07346db07b);
+}
+.gift-cards{
+    width: 15vw;
+    height: 19vh;
+    margin: 10px 40px;
+    padding: 25px;
+
+}
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+#trendsforher{
+background: url(https://static.vecteezy.com/system/resources/previews/009/657/777/original/geometry-minimalist-in-red-yellow-grey-and-dark-design-with-simple-shape-and-figure-abstract-pattern-design-style-for-web-banner-free-vector.jpg);
+
+}
+.homeimg8{
+    width: 10vw;
+    height: 30vh;
+    /* border-radius: 15px; */
+    
+    /* border-bottom: 20px solid white; */
+    padding: 5px 5px 0px 5px;
+    margin: 11px 11px 0px 11px;
+    /* margin: auto; */
+    /* margin:2px 5px  0px 7px; */
+    box-shadow: rgba(126, 114, 114, 0.24) 8px 2px 3px;
+
+}
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+#trendsforhim{
+    
+    background: url(https://img.freepik.com/premium-vector/vintage-aesthetic-pattern-with-triangles-style-70s-60_225753-5395.jpg);
+    
+}
+.homeimg9{
+    width: 10vw;
+    height: 30vh;
+    /* border-radius: 15px; */
+    
+    /* border-bottom: 20px solid white; */
+    padding: 5px 5px 0px 5px;
+    margin: 11px 11px 0px 11px;
+    /* margin: auto; */
+    /* margin:2px 5px  0px 7px; */
+    box-shadow: rgba(126, 114, 114, 0.24) 8px 2px 3px;
+    
+}
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+#bestofkidswear{
+    background: url(https://img.freepik.com/premium-vector/mid-century-retro-wallpaper-pattern-background_92086-832.jpg?w=2000);
+}
+.homeimg10{
+    width: 10vw;
+    height: 30vh;
+    /* border-radius: 15px; */
+    
+    /* border-bottom: 20px solid white; */
+    padding: 5px 5px 0px 5px;
+    margin: 11px 11px 0px 11px;
+    /* margin: auto; */
+    /* margin:2px 5px  0px 7px; */
+    box-shadow: rgba(126, 114, 114, 0.24) 8px 2px 3px;
+    
+}
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+#influencers{
+    background: url(https://as2.ftcdn.net/v2/jpg/05/41/93/73/1000_F_541937399_pt31fTdbQyYxKhUt2hYJapMz70Om7dpe.jpg);
+}
+.homeimg10{
+    width: 10vw;
+    height: 30vh;
+    /* border-radius: 15px; */
+    
+    /* border-bottom: 20px solid white; */
+    padding: 5px 5px 0px 5px;
+    margin: 11px 11px 0px 11px;
+    /* margin: auto; */
+    /* margin:2px 5px  0px 7px; */
+    box-shadow: rgba(126, 114, 114, 0.24) 8px 2px 3px;
+}
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+.footer{
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* text-align: center; */
+    margin: auto;
+    padding: 2vw 15vw;
+}
+.footerul{
+    /* margin: auto; */
+    /* justify-content: center; */
+    /* align-items: center; */
+
+
+    /* text-align: center; */
+    padding: 20px;
+    flex-direction: column;
+}
+.footerul strong{
+    
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+.footerul li {
+    color: rgb(26, 22, 22);
+    list-style: none;
+
+    margin-top: 7px;
+    font-size: 16px;
+
+
+}
+.btnli{
+    width: 9vw;
+    height: 8vh;
+    color: white;
+    font: 10px;
+    background-color: black;
+    border-radius: 5px;
+    flex-wrap: wrap;
+    margin-left: 0px;
+    flex-direction: row;
+}
+.footerul img{
+    /* padding: auto; */
+    /* margin-top: 2vh; */
+    width: 30px;
+    margin-left: 0px;
+    height: 30px;
+    /* border-radius: 10px */
+}
+.footerul span{
+    font-size: 12px;
+    text-align: center;
+    margin-top: 0px;
+}
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+.popularsearch{
+    margin: auto;
+    padding: 2vw 15vw;
+}
+.popularsearch p{
+    font-size: 16px;
+    font-kerning: 6px;
+}
